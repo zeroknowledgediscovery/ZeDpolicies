@@ -10,3 +10,8 @@ Please choose the level appropriate to your background and follow the instructio
 
 ## Submission
 Email your deliverables per the task instructions to **ishanu_ch@uky.edu**.
+
+
+## Use of AI in Coding
+Allowed, as long as  you can  demonstrate the skill being tested.
+
