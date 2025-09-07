@@ -30,7 +30,7 @@ If you are **already accepted**, please start with the **Onboarding** document. 
 ---
 
 ## Quick Links
-- **Lab Policies (current)**: [`ZeD_policies_v1.2.md`](ZeD_policies_v1.2.md) _(versioned with TOC)_
+- **Lab Policies (current)**: [`ZeD_policies_.md`](ZeD_policies.md) 
 - **Onboarding (post‑acceptance)**: [`onboarding.md`](onboarding.md)
 - **Skill Tests**:
   - Level 0 (Undergraduate): [`level_0_screening.md`](level_0_screening.md)
