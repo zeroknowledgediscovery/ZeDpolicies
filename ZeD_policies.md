@@ -1,4 +1,4 @@
-# ZeD Lab Expectations and Policies (v1.0)  
+# ZeD Lab Expectations and Policies (v1.1)  
 **University of Kentucky**
 
 This document outlines expectations and laboratory policies for all members of the ZeD Lab. By joining the group, you agree to abide by the following guidelines, which ensure fairness, accountability, and the success of our collective research mission.  
@@ -10,33 +10,49 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 1. Work Hours  
+## 1. Expectations  
+
+### PI Expectations of Members  
+- Contribute substantively to research projects, with the expectation of **at least one peer-reviewed publication per year** (authorship level depending on contribution).  
+- Deliver on milestones and deadlines associated with **externally funded programs**; timely delivery of results is critical to maintaining support.  
+- Actively participate in group meetings, collaborative projects, and professional development activities.  
+- Uphold the highest standards of scientific integrity, professionalism, and ethical conduct.  
+
+### Members’ Expectations of the PI  
+- Provide **intellectual support** in shaping research questions, guiding analysis, and interpreting results.  
+- Offer **mentoring and career support**, including advice on publications, presentations, funding opportunities, and career paths.  
+- Advocate for members in professional settings and provide opportunities for networking and collaboration.  
+- Ensure access to necessary resources (HPC clusters, datasets, code repositories) and maintain a safe, respectful, and inclusive research environment.  
+
+---
+
+## 2. Work Hours  
 - **Graduate Students and Postdocs**: Expected to maintain ~40 hours/week, with flexibility to accommodate academic obligations.  
 - **Undergraduate and Paid Student Researchers**: Hours must comply with University of Kentucky employment policies.  
 - **Flexibility**: Work hours can be arranged around classes and personal obligations, provided responsibilities are met.  
 
 ---
 
-## 2. Time-Off Policy  
+## 3. Time-Off Policy  
 - **Vacation and Personal Time**: Request vacation at least 2 weeks in advance by email to the PI.  
 - **Unexpected Absences**: Notify the PI immediately if sick or unable to work.  
 - **University Holidays**: All members follow official UK holiday schedules.  
 
 ---
 
-## 3. Group Meetings  
+## 4. Group Meetings  
 - **Weekly Lab Meeting**: Mandatory for all members unless excused in advance.  
 - **Preparation**: Members must present updates, progress, and challenges.  
 
 ---
 
-## 4. Deadlines & Deliverables  
+## 5. Deadlines & Deliverables  
 - **Externally Funded Programs**: Deadlines tied to grants must be met; delays jeopardize lab funding and reputation.  
 - **Internal Deadlines**: Lab project milestones are binding unless negotiated ahead of time.  
 
 ---
 
-## 5. Code Repositories (Mandatory Policy)  
+## 6. Code Repositories (Mandatory Policy)  
 - **Central Repository**: All code written as part of ZeD Lab projects must be submitted to the official **ZeD Lab GitHub repositories**.  
 - **Ownership**: In accordance with University of Kentucky intellectual property policies, all code generated in the lab is considered university-owned IP.  
 - **No Private Stash**: Local or private copies of research code are not acceptable as final records. All active development must be pushed to the shared repository.  
@@ -48,7 +64,7 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 6. Authorship Policy  
+## 7. Authorship Policy  
 - **General Principle**: Authorship is earned by **substantial intellectual contribution**, not mere participation.  
 - **Criteria (ICMJE standards)**:  
   1. Significant contributions to conception/design, data acquisition, analysis, or interpretation.  
@@ -61,21 +77,21 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 7. Conferences & Travel  
+## 8. Conferences & Travel  
 - Members may be required to present at conferences.  
 - Travel may be required by funded projects; costs will typically be covered by grants.  
 - Represent the lab and UK with professionalism.  
 
 ---
 
-## 8. Paid Internships & Student Researchers  
+## 9. Paid Internships & Student Researchers  
 - Paid positions are capped by UK employment policies.  
 - Paid hours must be logged and limited to research activities.  
 - Coursework should not be done during paid research time.  
 
 ---
 
-## 9. Intellectual Property (IP) Ownership  
+## 10. Intellectual Property (IP) Ownership  
 - **University Policy**: All inventions, software, and IP created using UK resources fall under university IP policy.  
 - **Lab Outputs**: Code, models, datasets, and methods developed in the lab are considered collective research outputs.  
 - **Open-Source Licensing**: Any public release of code requires PI approval and compliance with UK policies.  
@@ -84,14 +100,14 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 10. Professional Conduct & Collaboration  
+## 11. Professional Conduct & Collaboration  
 - Respect all lab members and promote inclusivity.  
 - Keep unpublished data confidential.  
 - Follow UK standards for ethics, integrity, and responsible conduct of research.  
 
 ---
 
-## 11. Harassment & Reporting Policy  
+## 12. Harassment & Reporting Policy  
 - **Zero Tolerance**: Harassment, discrimination, or abusive behavior of any kind will not be tolerated in the ZeD Lab.  
 - **Reporting Obligation**: If you experience or witness harassment, discrimination, or misconduct within the group, you must promptly bring it to the attention of the PI and/or the appropriate University of Kentucky administrators.  
 - **Confidentiality & Protection**: Reports will be handled with discretion and in compliance with university policies, with the goal of protecting all individuals from retaliation.  
@@ -99,5 +115,5 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 12. Final Notes  
+## 13. Final Notes  
 These policies ensure a productive, professional, and fair research environment. Questions or conflicts should be discussed directly with the PI.  
