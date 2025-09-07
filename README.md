@@ -1,4 +1,4 @@
-# LSM/QuasiNet Screening Task (Influenza B)
+# LSM/QuasiNet Screening Task
 
 ## Objective
 Spin up a **Google Cloud VM** (Ubuntu), set up a Python environment, clone this repo, and complete the following on the provided **Influenza B** sequences:
