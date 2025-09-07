@@ -54,7 +54,6 @@ pip install pandas numpy matplotlib seaborn biopython scikit-learn
 pip install quasinet
 ```
 
-If `quasinet` is hosted privately or under a different name, use the exact pip path you were given (e.g., `pip install git+https://github.com/<org>/quasinet.git`).
 
 ---
 
