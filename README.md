@@ -4,8 +4,8 @@
 </p>
 
 
-This repository hosts **screening tasks** used to assess technical fit for roles in the **Zero Knowledge Discovery Laboratory** ([zed.createuky.net](https://zed.createuky.net/)).  
-Please choose the level appropriate to your background and follow the instructions within each task.
+This repository hosts **screening tasks** used to assess the minimum technical background for roles in the **Zero Knowledge Discovery Laboratory** ([zed.createuky.net](https://zed.createuky.net/)). + Level 0: Undergraduate Researcher
++ Level 1: Graduate and Postdoctoral Associate
 
 ## Screening Tasks
 - **Level 0:** Basic data handling & visualization — [`level_0_screening.md`](./level_0_screening.md)
