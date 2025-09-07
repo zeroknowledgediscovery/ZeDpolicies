@@ -59,11 +59,10 @@ If `quasinet` is hosted privately or under a different name, use the exact pip p
 ---
 
 ## Data
-Place your FASTA file at:
+Data is in the FASTA file at:
 ```
 ./data/INFB_2018_2019.fasta
 ```
-If your file is named differently, update the paths in the script accordingly.
 
 ---
 
@@ -100,9 +99,9 @@ Optional (reproducibility): set a seed at the top with `random.seed(42)`.
 1. **Parse FASTA → DataFrame**
    - Read `subset_influenzaB.fasta`.
    - Create a **pandas DataFrame** with at least:
-     - `id` (sequence identifier)
-     - `sequence` (uppercase A/C/G/T/N …)
-     - any additional fields you extract (e.g., lineage parsed from headers).
+     - `sequence_name` (sequence identifier e.g. `B/Okinawa/18T032/2019` You parse the fasta header to extract the sequence name. It is the first filed in teh fasta sequence header)
+     - `sequence` (uppercase letters for residue symbols …)
+     - any additional fields you extract (optional e.g., lineage parsed from headers).
    - **Index** the DataFrame by `id`.
    - Represent each sequence so that **each residue position** can be addressed (you may keep a second structure for model input if needed).
 
@@ -135,21 +134,6 @@ Optional (reproducibility): set a seed at the top with `random.seed(42)`.
    - **Email** the CSV, PNG, and the script to the address provided in the invitation.
 
 ---
-
-## Repo Structure (suggested)
-
-```
-.
-├─ data/
-│  └─ INFB_2018_2019.fasta
-├─ outputs/                 # you will create this
-│  ├─ distance_matrix.csv   # you generate
-│  └─ clustermap.png        # you generate
-├─ sample200.py             # provided sampling example
-├─ analysis.py              # your main solution script (you write)
-└─ README.md
-```
-
 ---
 
 ## Tips & Expectations
