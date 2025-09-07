@@ -5,9 +5,8 @@ Please choose the level appropriate to your background and follow the instructio
 
 ## Screening Tasks
 - **Level 0:** Basic data handling & visualization — [`level_0_screening.md`](./level_0_screening.md)
-- **Level 2:** QuasiNet / LSM sequence modeling — [`level_1_screening.md`](./level_1_screening.md)
+- **Level 1:** QuasiNet / LSM sequence modeling — [`level_1_screening.md`](./level_1_screening.md)
 
-*(Optional Level 1 may be added later to bridge between 0 and 2.)*
 
 ## Submission
 Email your deliverables per the task instructions to **ishanu_ch@uky.edu**.
