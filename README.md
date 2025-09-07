@@ -1,4 +1,8 @@
 # Zero Knowledge Discovery Lab — Skill Tests
+<p align="center">
+  <img src="logo.png" alt="Lab Logo" width="200"/>
+</p>
+
 
 This repository hosts **screening tasks** used to assess technical fit for roles in the **Zero Knowledge Discovery Laboratory** ([zed.createuky.net](https://zed.createuky.net/)).  
 Please choose the level appropriate to your background and follow the instructions within each task.
