@@ -75,7 +75,7 @@ All commitments related to stipends, travel, conference support, and research ex
 ---
 ## 6. Code Repositories (Mandatory Policy)
 
-> 🚨 **IMPORTANT — CODE POLICY (MANDATORY)**  
+> 🚨 **IMPORTANT **  
 > - **Central Repository**: All code written as part of ZeD Lab projects must be submitted to the official **ZeD Lab GitHub repositories**.  
 > - **Ownership**: In accordance with University of Kentucky intellectual property policies, all code generated in the lab is considered university-owned IP.  
 > - **No Private Stash**: Local or private copies of research code are not acceptable as final records. All active development must be pushed to the shared repository.  
