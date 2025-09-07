@@ -12,6 +12,7 @@ Spin up a **Google Cloud VM** (Ubuntu), set up a Python environment, clone this 
 This test evaluates cloud literacy, data handling, modeling alignment with Large Sequence Models (LSMs) / QuasiNet, and reproducibility.
 
 ---
+# Hints
 
 ## VM Setup (Google Cloud · Ubuntu · e2-medium recommended)
 
@@ -106,12 +107,15 @@ Optional (reproducibility): set a seed at the top with `random.seed(42)`.
 
 2. **Fit a QuasiNet model**
    - Install and import **QuasiNet**.
-   - Convert your sequence representation to a **NumPy array** (do **not** feed a pandas DataFrame directly—convert/encode first).
+   - Convert your sequence representation to a **NumPy array** of `astype(str)`  (do **not** feed a pandas DataFrame directly—convert/encode first).
    - Train/fit a **QuasiNet** model appropriate for sequence similarity/latent structure discovery.
-   - Briefly document (in code comments) your encoding choice (e.g., one-hot, k-mers, learned embeddings) and any model hyperparameters.
+   - Detailed documentation is available here: https://zeroknowledgediscovery.github.io/quasinet/build/html/quasinet.html
+   - Examples are available here: https://github.com/zeroknowledgediscovery/quasinet/tree/master/examples 
 
 3. **Distance Matrix**
    - Use the **inferred model** to compute a **pairwise distance matrix** across the **200 sampled sequences**.
+   - Use the `qdistance_matrix` function
+   - If this takes more than one hour you can use a smaller random sample for this step (say 50 sequences)
    - Save to CSV as:
      ```
      outputs/distance_matrix.csv
@@ -126,7 +130,6 @@ Optional (reproducibility): set a seed at the top with `random.seed(42)`.
      ```
 
 5. **Deliverables**
-   - Commit and push:
      - your final script (e.g., `analysis.py`)
      - `outputs/distance_matrix.csv`
      - `outputs/clustermap.png`
