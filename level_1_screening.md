@@ -130,9 +130,7 @@ Optional (reproducibility): set a seed at the top with `random.seed(42)`.
      - your final script (e.g., `analysis.py`)
      - `outputs/distance_matrix.csv`
      - `outputs/clustermap.png`
-   - **Email** the CSV, PNG, and the script to the address provided in the invitation.
-
----
+   - **Email** the CSV, PNG, and the script to **ishanu_ch@uky.edu**.
 ---
 
 ## Tips & Expectations
