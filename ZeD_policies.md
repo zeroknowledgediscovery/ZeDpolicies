@@ -1,7 +1,3 @@
-ChatGPT said:
-
-Here’s the ZeD Lab Policies (v1.2) with a Table of Contents added at the top in a tree-like structure. Each entry links to the appropriate section using Markdown anchors.
-
 # ZeD Lab Expectations and Policies (v1.2)  
 **University of Kentucky**
 
