@@ -75,18 +75,24 @@ All commitments related to stipends, travel, conference support, and research ex
 ---
 
 ## 6. Code Repositories (Mandatory Policy)  
+
 <div style="color:red">
 
-- **Central Repository**: All code written as part of ZeD Lab projects must be submitted to the official **ZeD Lab GitHub repositories**.  
-- **Ownership**: In accordance with University of Kentucky intellectual property policies, all code generated in the lab is considered university-owned IP.  
-- **No Private Stash**: Local or private copies of research code are not acceptable as final records. All active development must be pushed to the shared repository.  
-- **Best Practices**:  
-  - Commit frequently with meaningful messages.  
-  - Document code adequately so others can reuse and build upon it.  
-  - Use branches and pull requests where appropriate.  
-- **Accountability**: Failure to submit code to the repository will be treated as a violation of lab policy and could affect authorship, evaluations, and continued participation.  
+**Central Repository**: All code written as part of ZeD Lab projects must be submitted to the official **ZeD Lab GitHub repositories**.  
+
+**Ownership**: In accordance with University of Kentucky intellectual property policies, all code generated in the lab is considered university-owned IP.  
+
+**No Private Stash**: Local or private copies of research code are not acceptable as final records. All active development must be pushed to the shared repository.  
+
+**Best Practices**:  
+- Commit frequently with meaningful messages.  
+- Document code adequately so others can reuse and build upon it.  
+- Use branches and pull requests where appropriate.  
+
+**Accountability**: Failure to submit code to the repository will be treated as a violation of lab policy and could affect authorship, evaluations, and continued participation.  
+
 </div>
----
+
 
 ## 7. Authorship Policy  
 - **General Principle**: Authorship is earned by **substantial intellectual contribution**, not mere participation.  
