@@ -1,9 +1,35 @@
-# ZeD Lab Expectations and Policies (v1.1)  
+ChatGPT said:
+
+Here’s the ZeD Lab Policies (v1.2) with a Table of Contents added at the top in a tree-like structure. Each entry links to the appropriate section using Markdown anchors.
+
+# ZeD Lab Expectations and Policies (v1.2)  
 **University of Kentucky**
 
 This document outlines expectations and laboratory policies for all members of the ZeD Lab. By joining the group, you agree to abide by the following guidelines, which ensure fairness, accountability, and the success of our collective research mission.  
 
 ---
+
+## Table of Contents  
+
+- [0. Funding Commitments Disclaimer](#0-funding-commitments-disclaimer)  
+- [1. Expectations](#1-expectations)  
+  - [PI Expectations of Members](#pi-expectations-of-members)  
+  - [Members’ Expectations of the PI](#members-expectations-of-the-pi)  
+- [2. Work Hours](#2-work-hours)  
+- [3. Time-Off Policy](#3-time-off-policy)  
+- [4. Group Meetings](#4-group-meetings)  
+- [5. Deadlines & Deliverables](#5-deadlines--deliverables)  
+- [6. Code Repositories (Mandatory Policy)](#6-code-repositories-mandatory-policy)  
+- [7. Authorship Policy](#7-authorship-policy)  
+- [8. Conferences & Travel](#8-conferences--travel)  
+- [9. Paid Internships & Student Researchers](#9-paid-internships--student-researchers)  
+- [10. Intellectual Property (IP) Ownership](#10-intellectual-property-ip-ownership)  
+- [11. Professional Conduct & Collaboration](#11-professional-conduct--collaboration)  
+- [12. Harassment & Reporting Policy](#12-harassment--reporting-policy)  
+- [13. Final Notes](#13-final-notes)  
+
+---
+
 
 ## 0. Funding Commitments Disclaimer  
 All commitments related to stipends, travel, conference support, and research expenses are **subject to the availability of funds**. While the lab will make every effort to secure and maintain external funding, continuation of financial support depends on successful renewal of grants, contracts, or other sources.  
