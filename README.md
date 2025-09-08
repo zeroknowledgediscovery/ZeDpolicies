@@ -42,9 +42,7 @@ If you are **already accepted**, please start with the **Onboarding** document. 
 ```text
 ZeDpolicies/
 ├─ onboarding.md                # Post‑acceptance setup (Slack, GitHub, MCC/LCC)
-├─ ZeD_policies_v1.2.md         # Versioned lab policies with TOC
-├─ ZeD_policies_v1.1.md         # Previous policies version (history)
-├─ ZeD_policies.md              # (Optional) Latest pointer or stable copy
+├─ ZeD_policies.md              # Lab policies on expectations, requirements etc
 ├─ level_0_screening.md         # Candidate screening — Level 0
 ├─ level_1_screening.md         # Candidate screening — Level 1
 ├─ logo.png                     
@@ -56,13 +54,12 @@ ZeDpolicies/
 ## Who Should Use What?
 - **Accepted lab members** → Follow **`onboarding.md`** and then review **`ZeD_policies_v1.2.md`**.
 - **Candidates** → Complete **`level_0_screening.md`** or **`level_1_screening.md`** as instructed.
-- **Everyone** → Refer to **`ZeD_policies_v1.2.md`** for expectations, authorship, IP, code repository rules, deadlines, travel, time‑off, harassment policy, and the funding‑availability disclaimer.
+- **Everyone** → Refer to **`ZeD_policies.md`** for expectations, authorship, IP, code repository rules, deadlines, travel, time‑off, harassment policy, and the funding‑availability disclaimer.
 
 ---
 
 ## Contributing / Updates
 - Submit proposed edits via pull request.
-- Policy documents are **versioned** (e.g., `ZeD_policies_vX.Y.md`). When updating policies, **create a new versioned file** and optionally update `ZeD_policies.md` as the stable pointer.
 - For onboarding changes (links to MCC/LCC/Slack/GitHub), please ensure URLs and contact emails are up‑to‑date.
 
 ---
