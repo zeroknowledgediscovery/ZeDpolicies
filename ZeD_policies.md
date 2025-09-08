@@ -14,16 +14,16 @@ These lab policies are subject to all applicable **University of Kentucky (UKY) 
   - [Members’ Expectations of the PI](#members-expectations-of-the-pi)  
 - [2. Work Hours](#2-work-hours)  
 - [3. Time-Off Policy](#3-time-off-policy)  
-- [4. Group Meetings](#4-group-meetings)  
-- [5. Deadlines & Deliverables](#5-deadlines--deliverables)  
-- [6. Code Repositories (Mandatory Policy)](#6-code-repositories-mandatory-policy)  
-- [7. Authorship Policy](#7-authorship-policy)  
-- [8. Conferences & Travel](#8-conferences--travel)  
-- [9. Paid Internships & Student Researchers](#9-paid-internships--student-researchers)  
-- [10. Intellectual Property (IP) Ownership](#10-intellectual-property-ip-ownership)  
-- [11. Professional Conduct & Collaboration](#11-professional-conduct--collaboration)  
-- [12. Harassment & Reporting Policy](#12-harassment--reporting-policy)  
-- [13. Final Notes](#13-final-notes)  
+- [4. Annual Performance Evaluation](#4-Annual-Performance-Evaluation)  
+- [5. Group Meetings](#5-group-meetings)  
+- [6. Deadlines & Deliverables](#6-deadlines--deliverables)  
+- [7. Code Repositories (Mandatory Policy)](#7-code-repositories-mandatory-policy)  
+- [8. Authorship Policy](#8-authorship-policy)  
+- [9. Conferences & Travel](#9-conferences--travel)  
+- [10. Paid Internships & Student Researchers](#10-paid-internships--student-researchers)  
+- [11. Intellectual Property (IP) Ownership](#11-intellectual-property-ip-ownership)  
+- [12. Professional Conduct & Collaboration](#12-professional-conduct--collaboration)  
+- [13. Harassment & Reporting Policy](#13-harassment--reporting-policy)  
 - [14. Legal & Compliance](#14-legal--compliance)
 
 ---
@@ -64,18 +64,31 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 4. Group Meetings  
+## 4. Annual Performance Evaluation  
+
+- All members of the ZeD Lab will participate in a **formal yearly performance evaluation**.  
+- Evaluations will cover:
+  - Research progress and contributions to externally funded projects.  
+  - Publication output (with the expectation of at least one peer-reviewed paper per year for graduate students and postdocs, depending on contribution).  
+  - Engagement in lab activities, including weekly meetings, collaborations, and code repository contributions.  
+  - Professional development, including acquisition of new skills and mentorship of junior members.  
+- The process will include a **self-assessment** from the member, a **written evaluation** from the PI, and a **one-on-one meeting** to review progress and set goals for the following year.  
+- Details of the process are described in the companion document: [`evaluation_and_mentoring.md`](evaluation_and_mentoring.md).  
+
+---
+
+## 5. Group Meetings  
 - **Weekly Lab Meeting**: Mandatory for all members unless excused in advance.  
 - **Preparation**: Members must present updates, progress, and challenges.  
 
 ---
 
-## 5. Deadlines & Deliverables  
+## 6. Deadlines & Deliverables  
 - **Externally Funded Programs**: Deadlines tied to grants must be met; delays jeopardize lab funding and reputation.  
 - **Internal Deadlines**: Lab project milestones are binding unless negotiated ahead of time.  
 
 ---
-## 6. Code Repositories (Mandatory Policy)
+## 7. Code Repositories (Mandatory Policy)
 
 > 🚨 **IMPORTANT **  
 > - **Central Repository**: All code written as part of ZeD Lab projects must be submitted to the official **ZeD Lab GitHub repositories**.  
@@ -90,7 +103,7 @@ All commitments related to stipends, travel, conference support, and research ex
 
 
 
-## 7. Authorship Policy  
+## 8. Authorship Policy  
 - **General Principle**: Authorship is earned by **substantial intellectual contribution**, not mere participation.  
 - **Criteria (ICMJE standards)**:  
   1. Significant contributions to conception/design, data acquisition, analysis, or interpretation.  
@@ -104,21 +117,21 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 8. Conferences & Travel  
+## 9. Conferences & Travel  
 - Members may be required to present at conferences.  
 - Travel may be required by funded projects; costs will typically be covered by grants.  
 - Represent the lab and UK with professionalism.  
 
 ---
 
-## 9. Paid Internships & Student Researchers  
+## 10. Paid Internships & Student Researchers  
 - Paid positions are capped by UK employment policies.  
 - Paid hours must be logged and limited to research activities.  
 - Coursework should not be done during paid research time.  
 
 ---
 
-## 10. Intellectual Property (IP) Ownership  
+## 11. Intellectual Property (IP) Ownership  
 - **University Policy**: All inventions, software, and IP created using UK resources fall under university IP policy.  
 - **Lab Outputs**: Code, models, datasets, and methods developed in the lab are considered collective research outputs.  
 - **Open-Source Licensing**: Any public release of code requires PI approval and compliance with UK policies.  
@@ -130,23 +143,20 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 11. Professional Conduct & Collaboration  
+## 12. Professional Conduct & Collaboration  
 - Respect all lab members and promote inclusivity.  
 - Keep unpublished data confidential.  
 - Follow UK standards for ethics, integrity, and responsible conduct of research.  
 
 ---
 
-## 12. Harassment & Reporting Policy  
+## 13. Harassment & Reporting Policy  
 - **Zero Tolerance**: Harassment, discrimination, or abusive behavior of any kind will not be tolerated in the ZeD Lab.  
 - **Reporting Obligation**: If you experience or witness harassment, discrimination, or misconduct within the group, you must promptly bring it to the attention of the PI and/or the appropriate University of Kentucky administrators.  
 - **Confidentiality & Protection**: Reports will be handled with discretion and in compliance with university policies, with the goal of protecting all individuals from retaliation.  
 - **University Resources**: UK provides formal channels for reporting through its Office of Institutional Equity and Equal Opportunity. Members are encouraged to use these in addition to reporting internally.  
 
 ---
-
-## 13. Final Notes  
-These policies ensure a productive, professional, and fair research environment. Questions or conflicts should be discussed directly with the PI.  
 
 ## 14. Legal & Compliance  
  All members of the ZeD Lab must comply with applicable laws, University of Kentucky policies, and the terms of sponsored research agreements. This includes, but is not limited to:  
