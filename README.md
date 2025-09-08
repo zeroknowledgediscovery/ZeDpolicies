@@ -1,7 +1,7 @@
 
 # ZeD Lab — Policies, Onboarding & Skill Tests
 
-> Central repository for **lab policies**, **new‑member onboarding**, and **technical screening tasks** for the Zero Knowledge Discovery Laboratory (University of Kentucky).
+Central repository for **lab policies**, **new‑member onboarding**, and **technical screening tasks** for the Zero Knowledge Discovery Laboratory (University of Kentucky).
 
 <img src="logo.png" alt="ZeD Lab Logo" width="200"/>
 
