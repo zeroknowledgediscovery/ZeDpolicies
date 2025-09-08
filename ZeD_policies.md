@@ -2,6 +2,7 @@
 **University of Kentucky**
 
 This document outlines expectations and laboratory policies for all members of the ZeD Lab. By joining the group, you agree to abide by the following guidelines, which ensure fairness, accountability, and the success of our collective research mission.  
+These lab policies are subject to all applicable **University of Kentucky (UKY) policies and regulations**. In the event of any conflict, **UKY policies take precedence** over lab-level policies. Furthermore, as university policies evolve, these lab policies will be updated to remain in compliance. Members should always regard this document as a living reference that may change to reflect institutional requirements.
 
 ---
 
