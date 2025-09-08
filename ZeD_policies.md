@@ -23,6 +23,7 @@ This document outlines expectations and laboratory policies for all members of t
 - [11. Professional Conduct & Collaboration](#11-professional-conduct--collaboration)  
 - [12. Harassment & Reporting Policy](#12-harassment--reporting-policy)  
 - [13. Final Notes](#13-final-notes)  
+- [14. Legal & Compliance](#14-legal--compliance)
 
 ---
 
@@ -84,6 +85,7 @@ All commitments related to stipends, travel, conference support, and research ex
 >   - Document code adequately so others can reuse and build upon it.  
 >   - Use branches and pull requests where appropriate.  
 > - **Accountability**: Failure to submit code to the repository will be treated as a violation of lab policy and could affect authorship, evaluations, and continued participation.  
+> - **Confidential Data**: Code or data subject to privacy regulations (e.g., HIPAA, GDPR) must not be uploaded to public repositories without explicit PI and university approval.  
 
 
 
@@ -97,6 +99,7 @@ All commitments related to stipends, travel, conference support, and research ex
 - **Order of Authors**: Determined by consensus; PI resolves disputes. First author = primary lead; last author = PI. Co-first authorship is possible if justified.  
 - **Acknowledgments**: Limited contributions (e.g., routine support) should be acknowledged, not granted authorship.  
 - **Transparency**: Authorship and order must be agreed upon before submission.  
+
 
 ---
 
@@ -120,6 +123,9 @@ All commitments related to stipends, travel, conference support, and research ex
 - **Open-Source Licensing**: Any public release of code requires PI approval and compliance with UK policies.  
 - **Collaborations**: Joint IP with external partners will follow the signed agreements.  
 - **Student Work**: Theses, dissertations, and other academic work leading to IP are considered part of the lab’s collective research.  
+- **Commercialization**: Any licensing or startup effort involving lab IP must go through **UK Innovate** or other designated UKY offices.  
+- **Attribution**: Use of lab outputs outside the group requires appropriate credit to ZeD Lab and the University of Kentucky.  
+
 
 ---
 
@@ -140,3 +146,16 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ## 13. Final Notes  
 These policies ensure a productive, professional, and fair research environment. Questions or conflicts should be discussed directly with the PI.  
+
+## 14. Legal & Compliance  
+ All members of the ZeD Lab must comply with applicable laws, University of Kentucky policies, and the terms of sponsored research agreements. This includes, but is not limited to:  
+ - **Data Protection**: Sensitive or personally identifiable data must be handled in accordance with HIPAA, GDPR/CCPA, and UK data security requirements. Unauthorized storage of such data outside approved systems is prohibited.  
+ - **Confidentiality**: Members may be required to sign Non-Disclosure Agreements (NDAs) for certain collaborations; all unpublished data and agreements must be treated as confidential.  
+ - **Export Control & Dual Use**: U.S. export control regulations (ITAR, EAR) must be observed. Research outputs must not be applied to prohibited or harmful purposes.  
+ - **Conflict of Interest (COI)**: Members must disclose outside employment, consulting, or financial interests that may overlap with lab research.  
+ - **Disclaimer of Liability**: Lab code, models, and research outputs are provided “as is,” without warranties of any kind. They may not be used for unlawful purposes.  
+ - **Jurisdiction**: These policies are governed by the regulations of the University of Kentucky and the laws of the Commonwealth of Kentucky.  
+ - **Version Control**: This document is versioned on GitHub. Members are responsible for reading the latest version, and new members must acknowledge in writing that they have reviewed and agreed to it.  
+
+
+---
