@@ -4,7 +4,7 @@ Welcome to the group!
 Please complete the following onboarding steps **within your first week**.  
 
 ---
-## 1. Familiarize yourself with the ZeD Policy Document
+## 1. Familiarize yourself with the [ZeD Policy Document](ZeD_policies.md)
 - **Action:** Email [ishanu_ch@uky.edu](mailto:ishanu_ch@uky.edu)  with subject line **“ZeD Policies"** confirming that you have read the policy document and are in agreement, or discuss clarifications
 
 ---
