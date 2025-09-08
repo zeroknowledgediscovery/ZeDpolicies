@@ -5,7 +5,7 @@ Please complete the following onboarding steps **within your first week**.
 
 ---
 ## 1. Familiarize yourself with the ZeD Policy Document
-- **Action:** Email [ishanu_ch@uky.edu](mailto:ishanu_ch@uky.edu)  with subject line **“[ZeD Policies]"** confirming that you have read the policy document and are in agreement, or discuss clarifications
+- **Action:** Email [ishanu_ch@uky.edu](mailto:ishanu_ch@uky.edu)  with subject line **“ZeD Policies"** confirming that you have read the policy document and are in agreement, or discuss clarifications
 
 ---
 
@@ -43,7 +43,7 @@ Please complete the following onboarding steps **within your first week**.
 ## 5. Confirmation Email  
 Once you have completed the above:  
 - Send a single email to [ishanu_ch@uky.edu](mailto:ishanu_ch@uky.edu) with subject line:  
-  **“[Onboarding Complete] <Your Name>”**  
+  **“Onboarding Complete <Your Name>”**  
 - Include:  
   - ✅ Slack access confirmed  
   - ✅ GitHub username (and confirmation you can access private repos)  
