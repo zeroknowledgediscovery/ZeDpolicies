@@ -3,7 +3,7 @@
 
 > Central repository for **lab policies**, **new‑member onboarding**, and **technical screening tasks** for the Zero Knowledge Discovery Laboratory (University of Kentucky).
 
-![Lab Logo](logo.png)
+<img src="logo.png" alt="ZeD Lab Logo" width="200"/>
 
 ---
 
