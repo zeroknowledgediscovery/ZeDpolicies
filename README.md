@@ -38,19 +38,6 @@ If you are **already accepted**, please start with the **Onboarding** document. 
 
 ---
 
-## Repository Structure
-```text
-ZeDpolicies/
-├─ onboarding.md                # Post‑acceptance setup (Slack, GitHub, MCC/LCC)
-├─ ZeD_policies.md              # Lab policies on expectations, requirements etc
-├─ level_0_screening.md         # Candidate screening — Level 0
-├─ level_1_screening.md         # Candidate screening — Level 1
-├─ logo.png                     
-└─ data/                        # Any example/mock data supporting the tests
-```
-
----
-
 ## Who Should Use What?
 - **Accepted lab members** → Follow **`onboarding.md`** and then review **`ZeD_policies_v1.2.md`**.
 - **Candidates** → Complete **`level_0_screening.md`** or **`level_1_screening.md`** as instructed.
