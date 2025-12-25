@@ -16,17 +16,17 @@ All reports must be **accurate, complete, and submitted on time**.
 
 ### 1.1 Annual Report (Required)
 
-All students must submit an **annual progress report** covering the preceding 12-month period.
+All affiliates must submit an **annual progress report** covering the preceding 12-month period.
 
 This report is mandatory for:
 - Grant-funded trainees
 - Students receiving salary, stipend, or tuition support
 - Students listed on funded aims, milestones, or effort statements
+- Other associates irrespective of funding support from the ZeDlab
 
 ### 1.2 Interim and Ad-Hoc Reports (As Required)
 
 Additional reports may be required:
-- At **6-month intervals**
 - Prior to grant renewals, continuations, or milestones
 - Upon request by the PI, project lead, or sponsor
 - During onboarding, remediation, or role transitions
