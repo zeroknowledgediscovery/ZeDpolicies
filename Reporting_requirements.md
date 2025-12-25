@@ -153,7 +153,7 @@ Provide links where available.
 
 ## 3. Formatting and Submission
 
-- Reports must be submitted as a **single Markdown or PDF document**
+- Reports must be submitted as a **Markdown or PDF or text or Word document**
 - All sections must be clearly labeled
 - Supporting links, figures, or appendices may be included as needed
 - Reports must be archived as instructed by the lab or project lead
