@@ -59,7 +59,7 @@ All commitments related to stipends, travel, conference support, and research ex
 ---
 
 ## 3. Reporting Requirements 
-- See document on detailed reporting requirements
+- See document on detailed reporting requirements [`Reporting_requirements.md`](Reporting_requirements.md)
 - All associates irrespective of funding from Zedlab is expected to submit performance reports
 
 ---
