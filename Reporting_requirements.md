@@ -1,4 +1,4 @@
-# Student Reporting Requirements (Grant-Funded Research)
+# Reporting Requirements 
 
 This document defines the **mandatory reporting requirements** for all students, trainees, and research personnel supported by, contributing to, or affiliated with  the ZeD Lab (Zero Knowledge Discovery Laboratory).
 
