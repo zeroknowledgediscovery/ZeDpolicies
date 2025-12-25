@@ -13,18 +13,19 @@ These lab policies are subject to all applicable **University of Kentucky (UKY) 
   - [PI Expectations of Members](#pi-expectations-of-members)  
   - [Members’ Expectations of the PI](#members-expectations-of-the-pi)  
 - [2. Work Hours](#2-work-hours)  
-- [3. Time-Off Policy](#3-time-off-policy)  
-- [4. Annual Performance Evaluation](#4-Annual-Performance-Evaluation)  
-- [5. Group Meetings](#5-group-meetings)  
-- [6. Deadlines & Deliverables](#6-deadlines--deliverables)  
-- [7. Code Repositories (Mandatory Policy)](#7-code-repositories-mandatory-policy)  
-- [8. Authorship Policy](#8-authorship-policy)  
-- [9. Conferences & Travel](#9-conferences--travel)  
-- [10. Paid Internships & Student Researchers](#10-paid-internships--student-researchers)  
-- [11. Intellectual Property (IP) Ownership](#11-intellectual-property-ip-ownership)  
-- [12. Professional Conduct & Collaboration](#12-professional-conduct--collaboration)  
-- [13. Harassment & Reporting Policy](#13-harassment--reporting-policy)  
-- [14. Legal & Compliance](#14-legal--compliance)
+- [3. Reporting Requirements](#2-reporting-requirements)  
+- [4. Time-Off Policy](#3-time-off-policy)  
+- [5. Annual Performance Evaluation](#4-Annual-Performance-Evaluation)  
+- [6. Group Meetings](#5-group-meetings)  
+- [7. Deadlines & Deliverables](#6-deadlines--deliverables)  
+- [8. Code Repositories (Mandatory Policy)](#7-code-repositories-mandatory-policy)  
+- [9. Authorship Policy](#8-authorship-policy)  
+- [10. Conferences & Travel](#9-conferences--travel)  
+- [11. Paid Internships & Student Researchers](#10-paid-internships--student-researchers)  
+- [12. Intellectual Property (IP) Ownership](#11-intellectual-property-ip-ownership)  
+- [13. Professional Conduct & Collaboration](#12-professional-conduct--collaboration)  
+- [14. Harassment & Reporting Policy](#13-harassment--reporting-policy)  
+- [15. Legal & Compliance](#14-legal--compliance)
 
 ---
 
@@ -57,14 +58,21 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 3. Time-Off Policy  
+## 3. Reporting Requirements 
+- See document on detailed reporting requirements
+- All associates irrespective of funding from Zedlab is expected to submit performance reports
+
+---
+
+
+## 4. Time-Off Policy  
 - **Vacation and Personal Time**: Request vacation at least 2 weeks in advance by email to the PI.  
 - **Unexpected Absences**: Notify the PI immediately if sick or unable to work.  
 - **University Holidays**: All members follow official UK holiday schedules.  
 
 ---
 
-## 4. Annual Performance Evaluation  
+## 5. Annual Performance Evaluation  
 
 - All members of the ZeD Lab will participate in a **formal yearly performance evaluation**.  
 - Evaluations will cover:
@@ -77,18 +85,18 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 5. Group Meetings  
+## 6. Group Meetings  
 - **Weekly Lab Meeting**: Mandatory for all members unless excused in advance.  
 - **Preparation**: Members must present updates, progress, and challenges.  
 
 ---
 
-## 6. Deadlines & Deliverables  
+## 7. Deadlines & Deliverables  
 - **Externally Funded Programs**: Deadlines tied to grants must be met; delays jeopardize lab funding and reputation.  
 - **Internal Deadlines**: Lab project milestones are binding unless negotiated ahead of time.  
 
 ---
-## 7. Code Repositories (Mandatory Policy)
+## 8. Code Repositories (Mandatory Policy)
 
 > 🚨 **IMPORTANT **  
 > - **Central Repository**: All code written as part of ZeD Lab projects must be submitted to the official **ZeD Lab GitHub repositories**.  
@@ -103,7 +111,7 @@ All commitments related to stipends, travel, conference support, and research ex
 
 
 
-## 8. Authorship Policy  
+## 9. Authorship Policy  
 - **General Principle**: Authorship is earned by **substantial intellectual contribution**, not mere participation.  
 - **Criteria (ICMJE standards)**:  
   1. Significant contributions to conception/design, data acquisition, analysis, or interpretation.  
@@ -117,21 +125,21 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 9. Conferences & Travel  
+## 10. Conferences & Travel  
 - Members may be required to present at conferences.  
 - Travel may be required by funded projects; costs will typically be covered by grants.  
 - Represent the lab and UK with professionalism.  
 
 ---
 
-## 10. Paid Internships & Student Researchers  
+## 11. Paid Internships & Student Researchers  
 - Paid positions are capped by UK employment policies.  
 - Paid hours must be logged and limited to research activities.  
 - Coursework should not be done during paid research time.  
 
 ---
 
-## 11. Intellectual Property (IP) Ownership  
+## 12. Intellectual Property (IP) Ownership  
 - **University Policy**: All inventions, software, and IP created using UK resources fall under university IP policy.  
 - **Lab Outputs**: Code, models, datasets, and methods developed in the lab are considered collective research outputs.  
 - **Open-Source Licensing**: Any public release of code requires PI approval and compliance with UK policies.  
@@ -143,14 +151,14 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 12. Professional Conduct & Collaboration  
+## 13. Professional Conduct & Collaboration  
 - Respect all lab members and promote inclusivity.  
 - Keep unpublished data confidential.  
 - Follow UK standards for ethics, integrity, and responsible conduct of research.  
 
 ---
 
-## 13. Harassment & Reporting Policy  
+## 14. Harassment & Reporting Policy  
 - **Zero Tolerance**: Harassment, discrimination, or abusive behavior of any kind will not be tolerated in the ZeD Lab.  
 - **Reporting Obligation**: If you experience or witness harassment, discrimination, or misconduct within the group, you must promptly bring it to the attention of the PI and/or the appropriate University of Kentucky administrators.  
 - **Confidentiality & Protection**: Reports will be handled with discretion and in compliance with university policies, with the goal of protecting all individuals from retaliation.  
@@ -158,7 +166,7 @@ All commitments related to stipends, travel, conference support, and research ex
 
 ---
 
-## 14. Legal & Compliance  
+## 15. Legal & Compliance  
  All members of the ZeD Lab must comply with applicable laws, University of Kentucky policies, and the terms of sponsored research agreements. This includes, but is not limited to:  
  - **Data Protection**: Sensitive or personally identifiable data must be handled in accordance with HIPAA, GDPR/CCPA, and UK data security requirements. Unauthorized storage of such data outside approved systems is prohibited.  
  - **Confidentiality**: Members may be required to sign Non-Disclosure Agreements (NDAs) for certain collaborations; all unpublished data and agreements must be treated as confidential.  
