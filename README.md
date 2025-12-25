@@ -39,7 +39,7 @@ If you are **already accepted**, please start with the **Onboarding** document. 
 ---
 
 ## Who Should Use What?
-- **Accepted lab members** → Follow **`onboarding.md`** and then review **`ZeD_policies_v1.2.md`**.
+- **Accepted lab members** → Follow **`onboarding.md`** and then review **`ZeD_policies.md`**.
 - **Candidates** → Complete **`level_0_screening.md`** or **`level_1_screening.md`** as instructed.
 - **Everyone** → Refer to **`ZeD_policies.md`** for expectations, authorship, IP, code repository rules, deadlines, travel, time‑off, harassment policy, and the funding‑availability disclaimer.
 
