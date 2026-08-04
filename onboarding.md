@@ -26,7 +26,8 @@ Please complete the following onboarding steps **within your first week**.
 
 ## 4. HPC Accounts (MCC & LCC)  
 - The group uses the **Morgan Compute Cluster (MCC)** and **Lipscomb Compute Cluster (LCC)**.  
-- These accounts are managed by **UKY IT / CCS**, not by the lab.  
+- These accounts are managed by **UKY IT / CCS**, not by the lab.
+- account request (to be done by PI) https://ukyrcd.atlassian.net/servicedesk/customer/portal/4/group/16/create/51
 
 ### Steps:  
 1. Apply for accounts here:  
